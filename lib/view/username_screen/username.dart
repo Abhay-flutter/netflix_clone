@@ -25,11 +25,11 @@ class _UserNameState extends State<UserName> {
             Row(
               children: [
                 SizedBox(
-                  width: 120,
+                  width: 180,
                 ),
                 ImageConstant.logo,
                 SizedBox(
-                  width: 80,
+                  width: 50,
                 ),
                 IconButton(
                     onPressed: () {},
